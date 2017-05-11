@@ -1,2 +1,4 @@
 # Drew-Carbungco
-Personal page!
+Welcome to a preview of my personal page!
+
+Snapshot of the website
