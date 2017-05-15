@@ -25,12 +25,13 @@ h1 {
 	font-size: 60px;
 	text-align: right;
 	word-wrap: break-word;
-	padding:  15px 40px 0 0;
+	padding: 15px 40px 0 0;
+	margin: 10px 0 0 0;
 }
 
 .selection {
 	font-family: 'Amatic SC', cursive;
-	font-size: 25px;
+	font-size: 35px;
 	text-align: right;
 	padding: 50px 40px 0 0;
 }
@@ -43,7 +44,7 @@ a:link {
 }
 
 a:visted {
-		color: gray;
+	color: gray;
 	text-decoration: none;
 	font-size: 25px;
 	font-weight: bold;
@@ -58,7 +59,7 @@ a:hover {
 
 h2 {
 	font-family: Indie Flower, cursive;
-	font-size: 50px;
+	font-size: 60px;
 	text-align: center;
 	font-weight: bold;
 	Margin: 0 auto;
@@ -87,15 +88,29 @@ h2 {
 	font-size: 25px;
 }
 
+.secondsection {
+	display: inline block;
+}
+
 .thirdparagraph {
 	margin: 250px 0 0 0;
 	text-align: center;
-	font:-family: Indie Flower, cursive;
+	font-family: Indie Flower, cursive;
 	font-size:25px;
 }
 
-.secondsection {
-	display: inline block;
+h3 {
+	margin: 0 0 40px 0;
+	background-color: #E8E2DF;
+	border: 2px solid white;
+	color: white
+}
+
+.fourthparagraph {
+	margin: auto 0;
+	text-align: center;
+	font-family: Indie Flower, cursive;
+	font-size:25px
 }
 
 
@@ -128,10 +143,11 @@ h2 {
 	.secondparagraph {
 		margin: -490px 25px 30px 725px;
 		font-size: 13px;
-
 	}
 		
-	
+	h3 {
+		margin: -150px 0 90px 0;
+	}
 
 }
 
