@@ -13,4 +13,4 @@ Link to current project: drewcarbungco.000webhostapp.com
 so my website is currently unable to be viewed publicly.  Updates<br >
 will be up notifying when it will be back and operational.
 
-Snapshot of the website
+Snapshot of the website header
