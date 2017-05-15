@@ -1,7 +1,7 @@
 # Drew-Carbungco
 <h1>Welcome to a preview of my personal page!</h1>
 
-<p>I started working on this project since the beginning of May 2017,<br >
+<p>I started working on this project since the end of April 2017,<br >
 and will continue to make changes until all content I want is included.</p>
 
 <p>This site contains my resume, and will later have links to my Github profile<br >
