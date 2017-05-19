@@ -152,7 +152,7 @@ h3 {
 }
 
 /* Do not use for mobile
-@media (max-width: 750px) {
+@media only screen (max-width: 750px) {
 	.firstbackground {
 		height: 250px;
 		max-width: 900px;
@@ -195,11 +195,12 @@ h3 {
 		font-size: 10px;
 	}
 	
-	.secondparagraph {
+	.secondparagraph p {
 		margin: 0 0 0 0;
 		padding: 0 0 0 0px;
 		max-width: 260px;
 		color: black;
+		font-size: 8px;
 	}
 */
 	
