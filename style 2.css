@@ -31,7 +31,7 @@ h1 {
 
 .selection {
 	font-family: 'Amatic SC', cursive;
-	font-size: 35px;
+	font-size: 25px;
 	text-align: right;
 	padding: 50px 40px 0 0;
 }
@@ -106,12 +106,41 @@ h3 {
 	color: white
 }
 
+	.pagebreak p {
+		margin: 50px 0 50px 0;
+		font-family: Indie Flower, cursive;
+		font-size: 35px;
+		text-align: center;
+		background-color: #E8E2DF;
+		border: 2px solid white;
+		color: white;
+		font-style: bold;
+	}
+
 .fourthparagraph {
 	margin: auto 0;
 	text-align: center;
 	font-family: Indie Flower, cursive;
-	font-size:25px
+	font-size:25px;
 }
+
+.socialmedia {
+	display: inline;
+}
+
+.end {
+	margin: auto 0;
+	text-align: center;
+	font-family: Indie Flower, cursive;
+	font-size:25px;
+	}
+	
+	.freepik {
+		text-align: center;
+		margin: 20px 0;
+		background-color: #E8E2DF;
+		
+	}
 
 
 @media (max-width: 1350px) {
@@ -148,6 +177,8 @@ h3 {
 	h3 {
 		margin: -150px 0 90px 0;
 	}
+
+	
 
 }
 
