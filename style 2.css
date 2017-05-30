@@ -5,11 +5,13 @@
 }
 
 body {
-	background: AliceBlue;
-}
+	background: #659C96;
+	background: -webkit-linear-gradient(left, #659C96, #F2FAFF);
+	background: -moz-linear-gradient(#659C96, #F2FAFF);
+	}
 
 .firstbackground {
-	background-image: url("firstbackground.png");
+	background-image: url("firstbackground1.png");
 	height: 500px;
 	width: 1350px;
 	background-size: 100%;
@@ -17,7 +19,6 @@ body {
 	background-repeat: no-repeat;
 	overflow: hidden;
 	display: block;
-
 }
 
 h1 {
@@ -58,12 +59,14 @@ a:hover {
 }
 
 h2 {
-	font-family: Indie Flower, cursive;
+	font-family: 'Amatic SC', cursive;
 	font-size: 60px;
 	text-align: center;
 	font-weight: bold;
 	Margin: 0 auto;
-	background-color: #E8E2DF;
+	background: #E8E2DF;
+	background: -webkit-linear-gradient(left, #E8E2DF, #659C96);
+	background: -moz-linear-gradient (#E8E2DF, #659C96);	
 	border: 2px solid white;
 	color: white
 }
@@ -72,9 +75,11 @@ h2 {
 	margin: 0 0 30px 0;
 	padding: 25px 0 0 0;
 	text-align: center;
-	font-family: Indie Flower, cursive;
+	font-family: 'Patrick Hand', cursive;
 	font-size: 25px;
 	overflow: hidden;
+	color: #3D608C;
+
 
 }
 
@@ -85,26 +90,45 @@ h2 {
 .secondparagraph {
 	margin: -350px 75px 30px 650px;
 	text-align: center;
-	font-family: Indie Flower, cursive;
+	font-family: 'Patrick Hand', cursive;
 	font-size: 25px;
+	color: #3D608C;
 }
 
 .secondsection {
-	display: inline block;
+	display: inline block;	
 }
 
 .thirdparagraph {
 	margin: 250px 0 0 0;
 	text-align: center;
-	font-family: Indie Flower, cursive;
+	font-family: 'Amatic SC', cursive;
 	font-size:25px;
 }
 
 h3 {
 	margin: 0 0 40px 0;
-	background-color: #E8E2DF;
+	background: #E8E2DF;
+	background: -webkit-linear-gradient(left, #E8E2DF, #659C96);
+	background: -moz-linear-gradient (#E8E2DF, #659C96);
 	border: 2px solid white;
-	color: white
+	color: white;
+}
+
+.codeparagraphs {
+	color: white;
+}
+
+.codeparagraphone {
+	font-family: 'Patrick Hand', cursive;
+	display: inline-block;
+	color: #3D608C;
+}
+
+.codeparagraphtwo {
+	font-family: 'Patrick Hand', cursive;
+	display: inline-block;
+	color: #3D608C;
 }
 
 	.pagebreak p {
@@ -112,7 +136,9 @@ h3 {
 		font-family: Indie Flower, cursive;
 		font-size: 35px;
 		text-align: center;
-		background-color: #E8E2DF;
+		background: #E8E2DF;
+		background: -webkit-linear-gradient(left, #E8E2DF, #659C96);
+		background: -moz-linear-gradient (#E8E2DF, #659C96);
 		border: 2px solid white;
 		color: white;
 		font-style: bold;
@@ -121,8 +147,9 @@ h3 {
 .fourthparagraph {
 	margin: auto 0;
 	text-align: center;
-	font-family: Indie Flower, cursive;
+	font-family: 'Patrick Hand', cursive;
 	font-size:25px;
+	color: #3D608C;
 }
 
 .socialmedia {
@@ -162,7 +189,7 @@ h3 {
 .end {
 	margin: auto 0;
 	text-align: center;
-	font-family: Indie Flower, cursive;
+	font-family: 'Patrick Hand', cursive;
 	font-size:25px;
 	}
 	
@@ -208,6 +235,10 @@ h3 {
 		
 	h3 {
 		margin: -150px 0 90px 0;
+	}
+	
+	.codeparagraphs {
+		font-size: 30px;
 	}
 	
 
