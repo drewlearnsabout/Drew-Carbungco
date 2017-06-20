@@ -13,7 +13,7 @@ body {
 .firstbackground {
 	background-image: url("firstbackground1.png");
 	height: 500px;
-	width: 1350px;
+	width: 100%;
 	background-size: 100%;
 	background-position: center;
 	background-repeat: no-repeat;
